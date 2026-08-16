@@ -29,3 +29,4 @@ Aún por definir.
 - [Sesión 01](...)
 - [Sesión 02](...)
 - [Sesión 03](...)
+![imagen](Bidon_enceinte_boite_histoire-Page-1_2_.jpg)
